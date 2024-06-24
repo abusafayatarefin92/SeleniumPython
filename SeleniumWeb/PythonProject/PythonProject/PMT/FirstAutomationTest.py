@@ -1,5 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.edge.options import Options
+# from selenium.webdriver.edge.options import Options
 
 option = webdriver.EdgeOptions()
 edge_driver = webdriver.Edge(options= option)
