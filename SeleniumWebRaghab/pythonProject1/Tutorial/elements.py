@@ -19,3 +19,5 @@ login_button.click()
 time.sleep(5)
 
 print(edge_driver.title)
+edge_driver.close()
+edge_driver.quit()
