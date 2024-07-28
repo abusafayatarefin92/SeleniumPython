@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e367775-df70-4176-80cb-ee8b9b2401b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Application_Panel/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Application_Panel/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Application_Panel/applicant_signup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Application_Panel/applicant_signup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Config/Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Config/Config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Config/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Pages/Application_Pages/Application_Login_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Pages/Application_Pages/Application_Login_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Pages/Application_Pages/Application_Signup_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Pages/Application_Pages/Application_Signup_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Pages/Application_Pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Pages/Application_Pages/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Pages/Base_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Pages/Base_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Pages/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Tests/Application_TestCases/Application_Login_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Tests/Application_TestCases/Application_Login_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Tests/Application_TestCases/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Tests/Application_TestCases/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Tests/Base_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Tests/Base_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/Tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HANDICAP/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/assets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/chrome_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/chrome_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/edge_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/edge_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/HANDICAP/Application_Panel/applicant_signup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HANDICAP/Application_Panel/applicant_signup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,24 +35,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.chrome_driver.executor": "Run",
-    "Python.edge_driver.executor": "Run",
-    "Python.elements (1).executor": "Run",
-    "Python.elements.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/arefin/Desktop/git/Handicap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.applicant_signup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chrome_driver.executor&quot;: &quot;Run&quot;,
+    &quot;Python.edge_driver.executor&quot;: &quot;Run&quot;,
+    &quot;Python.elements (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.elements.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abu.arefin/Desktop/git/SeleniumPython/SeleniumWebRaghab/pythonProject1&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/HANDICAP/Pages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.elements (1)">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.applicant_signup">
+    <configuration name="applicant_signup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonProject/HANDICAP/Application_Panel" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonProject/HANDICAP/Application_Panel/applicant_signup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,92 +163,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.elements (1)" />
+        <item itemvalue="Python.applicant_signup" />
         <item itemvalue="Python.elements" />
-        <item itemvalue="Python.chrome_driver" />
+        <item itemvalue="Python.elements (1)" />
         <item itemvalue="Python.edge_driver" />
+        <item itemvalue="Python.chrome_driver" />
       </list>
     </recent_temporary>
   </component>
