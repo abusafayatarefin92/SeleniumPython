@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e367775-df70-4176-80cb-ee8b9b2401b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../pythonProject/HandicapAutomation/Tests/Pages/login_page_handicap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/HandicapAutomation/Tests/Pages/recruitmentRequestAdd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/HandicapAutomation/Tests/test_handicap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/WebDriverManager_CrossBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/selenium_pytest_demo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/selenium_pytest_demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/selenium_pytest_demo1.py" afterDir="false" />
-    </list>
+    <list default="true" id="3e367775-df70-4176-80cb-ee8b9b2401b5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,33 +32,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for login_test_handicap.test_handicap_login.executor": "Run",
-    "Python tests.Python tests for selenium_pytest_demo1.test_handicap_login.executor": "Run",
-    "Python tests.Python tests for selenium_pytest_demo2.test_handicap_login.executor": "Run",
-    "Python tests.Python tests for test_demo1.TestCases.executor": "Run",
-    "Python tests.Python tests for test_demo1.TestCases.test_3.executor": "Run",
-    "Python tests.Python tests for test_demo1.test_2.executor": "Run",
-    "Python tests.Python tests for test_handicap.test_handicap_login.executor": "Run",
-    "Python tests.Python tests in login_test_handicap.py.executor": "Run",
-    "Python tests.Python tests in selenium_pytest_demo1.py.executor": "Run",
-    "Python tests.Python tests in test_demo1.py.executor": "Run",
-    "Python tests.Python tests in test_handicap.py.executor": "Run",
-    "Python.WebDriverManager_CrossBrowser.executor": "Run",
-    "Python.applicant_signup.executor": "Run",
-    "Python.chrome_driver.executor": "Run",
-    "Python.edge_driver.executor": "Run",
-    "Python.elements (1).executor": "Run",
-    "Python.elements.executor": "Run",
-    "Python.test_demo1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/abu.arefin/Desktop/git/SeleniumPython/SeleniumWebRaghab/pythonProject1",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for login_test_handicap.test_handicap_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for selenium_pytest_demo1.test_handicap_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for selenium_pytest_demo2.test_handicap_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_demo1.TestCases.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_demo1.TestCases.test_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_demo1.test_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_handicap.test_handicap_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in login_test_handicap.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in selenium_pytest_demo1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_demo1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_handicap.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WebDriverManager_CrossBrowser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.applicant_signup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chrome_driver.executor&quot;: &quot;Run&quot;,
+    &quot;Python.edge_driver.executor&quot;: &quot;Run&quot;,
+    &quot;Python.elements (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_demo1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abu.arefin/Desktop/git/SeleniumPython/SeleniumWebRaghab/pythonProject1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\abu.arefin\Desktop\git\SeleniumPython\SeleniumWebRaghab\pythonProject\Tutorial" />
