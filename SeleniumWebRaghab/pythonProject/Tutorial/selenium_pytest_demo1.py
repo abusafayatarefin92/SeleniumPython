@@ -17,12 +17,8 @@ def edge_driver_handicap():
     edge_driver_handicap.quit()
 
 def test_handicap_login(edge_driver_handicap):
-    edge_driver_handicap.get("https://jobs.hi-bd.org/")
+    edge_driver_handicap.get("https://test.jobs.hi-bd.org/login")
 
-    time.sleep(5)
-
-    login_button = edge_driver_handicap.find_element(By.XPATH, '//*[@id="mobile-nav-menu"]/ul/li[2]/a')
-    login_button.click()
 
     time.sleep(5)
 
