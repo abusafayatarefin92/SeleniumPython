@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e367775-df70-4176-80cb-ee8b9b2401b5" name="Changes" comment="" />
+    <list default="true" id="3e367775-df70-4176-80cb-ee8b9b2401b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/HandicapAutomation/Tests/Pages/recruitmentRequestAdd.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HandicapAutomation/Tests/Pages/recruitmentRequestAdd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/HandicapAutomation/Tests/test_handicap.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/HandicapAutomation/Tests/test_handicap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/Tutorial/WebDriverManager_CrossBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/WebDriverManager_CrossBrowser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +73,7 @@
       <recent name="$PROJECT_DIR$/HANDICAP/Pages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_handicap.test_handicap_login">
+  <component name="RunManager" selected="Python.WebDriverManager_CrossBrowser">
     <configuration name="WebDriverManager_CrossBrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -151,10 +158,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.WebDriverManager_CrossBrowser" />
         <item itemvalue="Python tests.Python tests for test_handicap.test_handicap_login" />
         <item itemvalue="Python tests.Python tests in test_handicap.py" />
         <item itemvalue="Python tests.Python tests for HandicapAutomation.Tests.test_handicap.test_handicap_login" />
-        <item itemvalue="Python.WebDriverManager_CrossBrowser" />
         <item itemvalue="Python tests.Python tests in selenium_pytest_demo1.py" />
       </list>
     </recent_temporary>

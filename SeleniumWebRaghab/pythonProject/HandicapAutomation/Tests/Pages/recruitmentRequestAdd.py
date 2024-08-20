@@ -1,9 +1,12 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
+from selenium import webdriver
 
 class RecruitmentRequestAdd:
     def __init__(self, edge_driver_handicap):
         self.edge_driver_handicap = edge_driver_handicap
+        self.recruitment_request_click = (By.XPATH, '//*[@id="main-menu"]/ul/li[2]/a')
+        self.hiring_manager_click = (By.XPATH, '//*[@id="main-menu"]/ul/li[2]/ul/li[2]/a')
         self.recruitment_request_add_button = (By.XPATH, '//*[@id="right-panel"]/div[1]/div/div/div[3]/div/div/div/div[1]/div[1]/div[2]/div/a')
         self.project_or_department_select = (By.XPATH, '//*[@id="department"]')
         self.hiring_manager_text = (By.XPATH, '//*[@id="name_of_department"]')
@@ -14,6 +17,18 @@ class RecruitmentRequestAdd:
         self.location_text = (By.XPATH, '//*[@id="location"]')
         self.type_of_appointment_select = (By.XPATH, '//*[@id="appointment_type"]')
         self.range_of_slary_from_text = (By.XPATH, '//*[@id="salary_range_from"]')
+        self.type_of_recruitment_select = (By.XPATH, '//*[@id="recruitment_type"]')
+        self.hod_assign_to_select = (By.XPATH, '//*[@id="hodam_id"]')
+        self.range_of_slary_to_text = (By.XPATH, '//*[@id="salary_range_to"]')
+        self.comments_text = (By.XPATH, '//*[@id="comments"]')
+        self.submit_button = (By.XPATH, '//*[@id="right-panel"]/div[1]/div/div/div[3]/div/div/div/div[2]/form/div[3]/button[2]')
+        self.vacancy_caused_text = (By.XPATH, '//*[@id="vacancy_caused_due_to"]')
+
+    def click_recruitment_request(self):
+        self.edge_driver_handicap.find_element(*self.recruitment_request_click).click()
+
+    def click_hiring_manager(self):
+        self.edge_driver_handicap.find_element(*self.hiring_manager_click).click()
 
     def recruitment_request_add(self):
         self.edge_driver_handicap.find_element(*self.recruitment_request_add_button).click()
@@ -52,3 +67,25 @@ class RecruitmentRequestAdd:
 
     def insert_range_of_slary_from(self, text):
         self.edge_driver_handicap.find_element(*self.range_of_slary_from_text).send_keys(text)
+
+    def select_type_of_recruitment(self, name):
+        value = self.edge_driver_handicap.find_element(*self.type_of_recruitment_select)
+        type_of_recruitment = Select(value)
+        type_of_recruitment.select_by_visible_text(name)
+
+    def select_hod_assign_to(self, name):
+        value = self.edge_driver_handicap.find_element(*self.hod_assign_to_select)
+        hod_assign_to = Select(value)
+        hod_assign_to.select_by_visible_text(name)
+
+    def insert_range_of_slary_to(self, text):
+        self.edge_driver_handicap.find_element(*self.range_of_slary_to_text).send_keys(text)
+
+    def insert_comments(self, text):
+        self.edge_driver_handicap.find_element(*self.comments_text).send_keys(text)
+
+    def click_submit(self):
+        self.edge_driver_handicap.find_element(*self.submit_button).click()
+
+    def insert_vacancy_caused(self, text):
+        self.edge_driver_handicap.find_element(*self.vacancy_caused_text).send_keys(text)
