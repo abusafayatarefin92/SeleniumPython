@@ -1,0 +1,10 @@
+[
+  "Pytest/test_demo1.py::TestCases::test_1",
+  "Pytest/test_demo1.py::TestCases::test_2",
+  "Pytest/test_demo1.py::TestCases::test_3",
+  "Tutorial/selenium_pytest_demo1.py::test_handicap_login",
+  "selenium_pytest_demo1.py::test_handicap_login",
+  "selenium_pytest_demo2.py::test_handicap_login",
+  "selenium_pytest_demo2.py::test_handicap_login[mahbub.stc0510@gmail.com-Mahbub@0510]",
+  "selenium_pytest_demo2.py::test_handicap_login[safayatarefin@gmail.com-12345]"
+]

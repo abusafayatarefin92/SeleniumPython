@@ -1,0 +1,7 @@
+[
+  "login_test_handicap.py::test_handicap_login",
+  "login_test_handicap.py::test_handicap_login[mahbub.stc0510@gmail.com-Mahbub@0510]",
+  "login_test_handicap.py::test_handicap_login[safayatarefin@gmail.com-123456]",
+  "login_test_handicap.py::test_handicap_login[safayatarefin@gmail.com-12345]",
+  "test_handicap.py::test_handicap_login"
+]
