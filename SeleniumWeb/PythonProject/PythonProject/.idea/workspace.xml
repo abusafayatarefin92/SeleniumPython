@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708561c0-70ac-4211-afae-7d6c4e584fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basics/class_variable_vs_instance_varibale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/classes_and_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/inheritence_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/multiple_inheritance_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/object_and_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/InheritanceDemo.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/multilevel_inharitance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/multiple_inheritance_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/multiple_inheritance_demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +43,8 @@
     "Python.for_loop.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.inheritence_demo.executor": "Run",
+    "Python.multilevel_inharitance.executor": "Run",
+    "Python.multiple_inheritance_demo.executor": "Run",
     "Python.object_and_methods.executor": "Run",
     "Python.string_formatting.executor": "Run",
     "Python.while_loop.executor": "Run",
@@ -56,7 +53,7 @@
     "last_opened_file_path": "C:/Users/abu.arefin/Desktop/git/SeleniumPython/SeleniumWeb/PythonProject/PythonProject"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.inheritence_demo">
+  <component name="RunManager" selected="Python.multilevel_inharitance">
     <configuration name="class_variable_vs_instance_varibale" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -101,28 +98,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="date_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/date_time.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="inheritence_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -145,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="object_and_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multilevel_inharitance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +133,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/object_and_methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/multilevel_inharitance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiple_inheritance_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/multiple_inheritance_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multilevel_inharitance" />
+        <item itemvalue="Python.multiple_inheritance_demo" />
         <item itemvalue="Python.inheritence_demo" />
         <item itemvalue="Python.class_variable_vs_instance_varibale" />
         <item itemvalue="Python.classes_and_objects" />
-        <item itemvalue="Python.object_and_methods" />
-        <item itemvalue="Python.date_time" />
       </list>
     </recent_temporary>
   </component>
