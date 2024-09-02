@@ -5,13 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e367775-df70-4176-80cb-ee8b9b2401b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/Basics/exceptions_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/demofile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/read_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/read_xlsx_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/with_as_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/write_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/write_xlsx_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/writedemo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/ModuleDemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/ModuleDemo/test_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/MyModule/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/MyModule/my_custom_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/TestDataGeneration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/TestDataGeneration/test_data_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/Tutorial/WebDriverManager_CrossBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/WebDriverManager_CrossBrowser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/Tutorial/edge_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/edge_driver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +85,7 @@
       <recent name="$PROJECT_DIR$/HANDICAP/Pages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.edge_driver">
     <configuration name="WebDriverManager_CrossBrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -89,6 +100,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonProject/Tutorial/WebDriverManager_CrossBrowser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edge_driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonProject/Tutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonProject/Tutorial/edge_driver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,21 +182,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in selenium_pytest_demo1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonProject" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../pythonProject/Tutorial/selenium_pytest_demo1.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in test_handicap.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -181,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.edge_driver" />
         <item itemvalue="Python.WebDriverManager_CrossBrowser" />
         <item itemvalue="Python tests.Python tests for test_handicap.test_handicap_login" />
         <item itemvalue="Python tests.Python tests in test_handicap.py" />
         <item itemvalue="Python tests.Python tests for HandicapAutomation.Tests.test_handicap.test_handicap_login" />
-        <item itemvalue="Python tests.Python tests in selenium_pytest_demo1.py" />
       </list>
     </recent_temporary>
   </component>

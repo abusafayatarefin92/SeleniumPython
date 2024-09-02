@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708561c0-70ac-4211-afae-7d6c4e584fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basics/multilevel_inharitance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/multiple_inheritance_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/multiple_inheritance_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/exceptions_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileIODemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileIODemo/demofile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileIODemo/read_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileIODemo/read_xlsx_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileIODemo/with_as_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileIODemo/write_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileIODemo/write_xlsx_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileIODemo/writedemo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModuleDemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModuleDemo/test_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyModule/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyModule/my_custom_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDataGeneration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDataGeneration/test_data_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,25 +50,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.arguments.executor": "Run",
     "Python.class_variable_vs_instance_varibale.executor": "Run",
     "Python.classes_and_objects.executor": "Run",
     "Python.date_time.executor": "Run",
+    "Python.exceptions_demo.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.inheritence_demo.executor": "Run",
     "Python.multilevel_inharitance.executor": "Run",
     "Python.multiple_inheritance_demo.executor": "Run",
     "Python.object_and_methods.executor": "Run",
+    "Python.read_demo.executor": "Run",
+    "Python.read_xlsx_demo.executor": "Run",
     "Python.string_formatting.executor": "Run",
+    "Python.test_data_demo.executor": "Run",
+    "Python.test_module.executor": "Run",
     "Python.while_loop.executor": "Run",
+    "Python.with_as_demo.executor": "Run",
+    "Python.write_demo.executor": "Run",
+    "Python.write_xlsx_demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/abu.arefin/Desktop/git/SeleniumPython/SeleniumWeb/PythonProject/PythonProject"
+    "last_opened_file_path": "C:/Users/abu.arefin/Desktop/git/SeleniumPython/SeleniumWeb/PythonProject/PythonProject",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.multilevel_inharitance">
-    <configuration name="class_variable_vs_instance_varibale" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test_data_demo">
+    <configuration name="read_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileIODemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/class_variable_vs_instance_varibale.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileIODemo/read_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classes_and_objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="read_xlsx_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileIODemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/classes_and_objects.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileIODemo/read_xlsx_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inheritence_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_data_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestDataGeneration" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/inheritence_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestDataGeneration/test_data_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multilevel_inharitance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="with_as_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileIODemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/multilevel_inharitance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileIODemo/with_as_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiple_inheritance_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="write_xlsx_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileIODemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/multiple_inheritance_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileIODemo/write_xlsx_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.multilevel_inharitance" />
-        <item itemvalue="Python.multiple_inheritance_demo" />
-        <item itemvalue="Python.inheritence_demo" />
-        <item itemvalue="Python.class_variable_vs_instance_varibale" />
-        <item itemvalue="Python.classes_and_objects" />
+        <item itemvalue="Python.test_data_demo" />
+        <item itemvalue="Python.read_xlsx_demo" />
+        <item itemvalue="Python.write_xlsx_demo" />
+        <item itemvalue="Python.with_as_demo" />
+        <item itemvalue="Python.read_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -191,5 +215,8 @@
       <updated>1724824715647</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

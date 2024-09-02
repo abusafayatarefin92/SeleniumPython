@@ -9,16 +9,18 @@ from selenium.webdriver.edge.service import Service as EdgeService
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.support.ui import Select
 
-browser_name = 'edge'
+# browser_name = 'edge'
+#
+# if  browser_name == 'chrome':
+#     driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+# elif browser_name == 'firefox':
+#     driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
+# elif browser_name == 'edge':
+#     driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
+# else:
+#     print('please choose browser from chrome, firefox & edge')
 
-if  browser_name == 'chrome':
-    driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
-elif browser_name == 'firefox':
-    driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
-elif browser_name == 'edge':
-    driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
-else:
-    print('please choose browser from chrome, firefox & edge')
+driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
 
 driver.implicitly_wait(5)
 driver.maximize_window()
@@ -46,17 +48,17 @@ hiring_manager = driver.find_element(By.XPATH, '//*[@id="main-menu"]/ul/li[2]/ul
 hiring_manager.click()
 time.sleep(3)
 
-# recruitment_request_add = driver.find_element(By.XPATH, '//*[@id="right-panel"]/div[1]/div/div/div[3]/div/div/div/div[1]/div[1]/div[2]/div/a')
-# recruitment_request_add.click()
-# time.sleep(5)
-#
-# project_or_department = driver.find_element(By.XPATH, '//*[@id="department"]')
-# project_or_department_select = Select(project_or_department)
-# project_or_department_select.select_by_visible_text('Finance')
-# time.sleep(3)
+recruitment_request_add = driver.find_element(By.XPATH, '//*[@id="right-panel"]/div[1]/div/div/div[3]/div/div/div/div[1]/div[1]/div[2]/div/a')
+recruitment_request_add.click()
+time.sleep(5)
 
-job_id = driver.find_element(By.XPATH, '//*[@id="11"]/td[2]/a').text
-print(job_id)
+project_or_department = driver.find_element(By.XPATH, '//*[@id="department"]')
+project_or_department_select = Select(project_or_department)
+project_or_department_select.select_by_visible_text('Finance')
+time.sleep(3)
+
+# job_id = driver.find_element(By.XPATH, '//*[@id="11"]/td[2]/a').text
+# print(job_id)
 
 print(driver.title)
 driver.close()
