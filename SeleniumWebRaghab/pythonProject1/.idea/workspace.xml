@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e367775-df70-4176-80cb-ee8b9b2401b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/Basics/exceptions_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/demofile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/read_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/read_xlsx_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/with_as_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/write_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/write_xlsx_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/FileIODemo/writedemo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/ModuleDemo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/ModuleDemo/test_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/MyModule/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/MyModule/my_custom_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/TestDataGeneration/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/TestDataGeneration/test_data_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SeleniumWeb/PythonProject/PythonProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/Tutorial/WebDriverManager_CrossBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/WebDriverManager_CrossBrowser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/Tutorial/edge_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Tutorial/edge_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +61,7 @@
     &quot;Python.test_demo1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/abu.arefin/Desktop/git/SeleniumPython/SeleniumWebRaghab/pythonProject1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/git/SeleniumPython/SeleniumWebRaghab/pythonProject1&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
@@ -210,7 +197,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-abccbe9d933a-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.428" />
       </set>
     </attachedChunks>
   </component>
