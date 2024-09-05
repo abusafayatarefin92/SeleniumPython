@@ -1,58 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ae80988a-7f64-482a-bc00-813886d2c5fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basics/Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/String_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/arithmatic_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/class_variable_vs_instance_varibale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/classes_and_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/date_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/exceptions_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/inheritence_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/multilevel_inharitance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/multiple_inheritance_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/object_and_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/string_formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/while_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIODemo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIODemo/demoexcel.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIODemo/demofile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIODemo/read_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIODemo/read_xlsx_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIODemo/with_as_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIODemo/write_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIODemo/write_xlsx_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIODemo/writedemo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandicapAutomation/Tests/Pages/login_page_handicap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandicapAutomation/Tests/Pages/recruitmentRequestAdd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandicapAutomation/Tests/test_handicap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModuleDemo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModuleDemo/test_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyModule/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyModule/my_custom_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PMT/FirstAutomationTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PMT/WebdriverManager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PMT/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytest/test_demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestDataGeneration/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestDataGeneration/test_data_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestDataGeneration/testdata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial/WebDriverManager_CrossBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial/chrome_driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial/edge_driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial/elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial/selenium_pytest_demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial/selenium_pytest_demo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumWebRaghab/pythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumWebRaghab/pythonProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumWebRaghab/pythonProject1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumWebRaghab/pythonProject1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SeleniumPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniumPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/edge_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial/edge_driver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2lY7YMpY8QIHu5iBObJNHr8L5qw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -77,7 +33,9 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/abu.arefin/Desktop/git/SeleniumPython/SeleniumPython",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
