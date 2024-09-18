@@ -22,11 +22,14 @@ def test_handicap_login(edge_driver_handicap):
 
     time.sleep(5)
 
-    your_email = edge_driver_handicap.find_element(By.XPATH, '//*[@id="form2Example11"]')
+    your_email = edge_driver_handicap.find_element(By.XPATH,
+                                                   '//*[@id="form2Example11"]')
     your_email.send_keys('safayatarefin@gmail.com')
-    password = edge_driver_handicap.find_element(By.XPATH, '//*[@id="form2Example22"]')
+    password = edge_driver_handicap.find_element(By.XPATH,
+                                                 '//*[@id="form2Example22"]')
     password.send_keys('123456')
-    log_in = edge_driver_handicap.find_element(By.XPATH, '/html/body/div[2]/div/div/div/div/section/div/div/div/div/div[2]/div/div/div/form/div[3]/button')
+    log_in = edge_driver_handicap.find_element(By.XPATH,
+                                               '/html/body/div[2]/div/div/div/div/section/div/div/div/div/div[2]/div/div/div/form/div[3]/button')
     log_in.click()
 
     time.sleep(5)

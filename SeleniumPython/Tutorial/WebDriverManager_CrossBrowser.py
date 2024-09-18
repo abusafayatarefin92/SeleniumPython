@@ -28,31 +28,38 @@ driver.get("https://test.jobs.hi-bd.org/admin/login")
 
 time.sleep(5)
 
-your_email = driver.find_element(By.XPATH, '//*[@id="username"]')
+your_email = driver.find_element(By.XPATH,
+                                 '//*[@id="username"]')
 your_email.send_keys('arefin_super_admin')
-password = driver.find_element(By.XPATH, '//*[@id="password"]')
+password = driver.find_element(By.XPATH,
+                               '//*[@id="password"]')
 password.send_keys('123456')
 
 time.sleep(3)
 
-log_in = driver.find_element(By.XPATH,'//*[@id="signup"]/form/div[3]/button')
+log_in = driver.find_element(By.XPATH,
+                             '//*[@id="signup"]/form/div[3]/button')
 log_in.click()
 
 time.sleep(5)
 
-recruitment_request = driver.find_element(By.XPATH, '//*[@id="main-menu"]/ul/li[2]/a')
+recruitment_request = driver.find_element(By.XPATH,
+                                          '//*[@id="main-menu"]/ul/li[2]/a')
 recruitment_request.click()
 time.sleep(3)
 
-hiring_manager = driver.find_element(By.XPATH, '//*[@id="main-menu"]/ul/li[2]/ul/li[2]/a')
+hiring_manager = driver.find_element(By.XPATH,
+                                     '//*[@id="main-menu"]/ul/li[2]/ul/li[2]/a')
 hiring_manager.click()
 time.sleep(3)
 
-recruitment_request_add = driver.find_element(By.XPATH, '//*[@id="right-panel"]/div[1]/div/div/div[3]/div/div/div/div[1]/div[1]/div[2]/div/a')
+recruitment_request_add = driver.find_element(By.XPATH,
+                                              '//*[@id="right-panel"]/div[1]/div/div/div[3]/div/div/div/div[1]/div[1]/div[2]/div/a')
 recruitment_request_add.click()
 time.sleep(5)
 
-project_or_department = driver.find_element(By.XPATH, '//*[@id="department"]')
+project_or_department = driver.find_element(By.XPATH,
+                                            '//*[@id="department"]')
 project_or_department_select = Select(project_or_department)
 project_or_department_select.select_by_visible_text('Finance')
 time.sleep(3)
